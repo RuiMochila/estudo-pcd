@@ -25,6 +25,7 @@ public class BasicFrame {
 		contentor.add(new JButton("2"));
 		contentor.add(new JButton("3"));
 		
+		//Ola
 		janela.setVisible(true);
 	}
 }
